@@ -1,8 +1,8 @@
 name: drag_move_event
 description: drag move event widget
 version: 0.0.1
-author:
-homepage:
+author: JihwanKim
+homepage: https://github.com/JihwanKim/drag_move_event_widget
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
