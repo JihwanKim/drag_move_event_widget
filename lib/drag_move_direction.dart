@@ -1,0 +1,12 @@
+
+enum DragMoveDirection {
+  LEFT,
+  UP,
+  RIGHT,
+  DOWN,
+  DIAGONAL_RIGHT_DOWN,
+  DIAGONAL_RIGHT_UP,
+  DIAGONAL_LEFT_DOWN,
+  DIAGONAL_LEFT_UP,
+  NONE
+}
